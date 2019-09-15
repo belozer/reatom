@@ -7,9 +7,11 @@
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/core?style=for-the-badge&label=gzip)](https://bundlephobia.com/result?p=@reatom/core)
 ![GitHub](https://img.shields.io/github/license/artalar/reatom?style=for-the-badge)
 
-<br>
-<br>
 </div>
+
+---
+
+<br>
 
 ReAtom is **declarative** and **reactive** state manager, designed for both simple and complex applications.
 
