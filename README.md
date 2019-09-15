@@ -2,10 +2,10 @@
 <br/>
 <img src="docs/logos/logo.png" alt="reatom logo" align="center">
 
-[![npm](https://img.shields.io/npm/v/@reatom/core?style=flat-square)](https://www.npmjs.com/package/@reatom/core)
-![npm type definitions](https://img.shields.io/npm/types/@reatom/core?style=flat-square)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/core?style=flat-square)](https://bundlephobia.com/result?p=@reatom/core)
-![GitHub](https://img.shields.io/github/license/artalar/reatom?style=flat-square)
+[![npm](https://img.shields.io/npm/v/@reatom/core?style=for-the-badge)](https://www.npmjs.com/package/@reatom/core)
+![npm type definitions](https://img.shields.io/npm/types/@reatom/core?style=for-the-badge)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/core?style=for-the-badge)](https://bundlephobia.com/result?p=@reatom/core)
+![GitHub](https://img.shields.io/github/license/artalar/reatom?style=for-the-badge)
 
 <br>
 <br>
