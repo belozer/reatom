@@ -22,8 +22,8 @@ ReAtom is **declarative** and **reactive** state manager, designed for both simp
 ## Packages
 | Package | Version | Size
 --------|---------|----
-| [`@reatom/core`](packages/core) | [![npm](https://img.shields.io/npm/v/@reatom/core?style=flat-square)](https://www.npmjs.com/package/@reatom/core) | [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/core?style=flat-square)](https://bundlephobia.com/result?p=@reatom/core)
-| [`@reatom/react`](packages/react) | [![npm](https://img.shields.io/npm/v/@reatom/react?style=flat-square)](https://www.npmjs.com/package/@reatom/react) | [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/react?style=flat-square)](https://bundlephobia.com/result?p=@reatom/react)
+| [`@reatom/core`](packages/core) | [![npm](https://img.shields.io/npm/v/@reatom/core?style=for-the-badge)](https://www.npmjs.com/package/@reatom/core) | [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/core?style=for-the-badge&label=gzip)](https://bundlephobia.com/result?p=@reatom/core)
+| [`@reatom/react`](packages/react) | [![npm](https://img.shields.io/npm/v/@reatom/react?style=for-the-badge)](https://www.npmjs.com/package/@reatom/react) | [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@reatom/react?style=for-the-badge&label=gzip)](https://bundlephobia.com/result?p=@reatom/react)
 
 ## Goals and features
 
