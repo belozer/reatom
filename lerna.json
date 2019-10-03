@@ -10,11 +10,10 @@
   ],
   "command": {
     "publish": {
-      "allowBranch": "master",
-      "conventionalCommits": true,
-      "conventionalGraduate": true,
       "ignoreChanges": ["*.md", "**/test/**"],
       "message": "chore(release): publish"
     }
-  }
+  },
+  "conventionalCommits": true,
+  "conventionalGraduate": true
 }
